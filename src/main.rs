@@ -10,6 +10,4 @@ fn main(){
     println!("{}",name);
     println!("{}",course);
 
-
-
 }
