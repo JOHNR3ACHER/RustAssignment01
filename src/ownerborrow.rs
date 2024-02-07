@@ -10,7 +10,6 @@ fn swap(a: &mut i32, b: &mut i32) {
 }
 
 
-
 fn add_and_multiply(a: &i32, b: &mut i32) {
     // Implement this function
     *b = (*a + *b) * 2; 
